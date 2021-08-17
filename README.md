@@ -1,2 +1,2 @@
-# melody
-Glo-academy
+# melody учебнЫй проект Glo-academy
+##  вЫполнил Кирпичев Владимир
